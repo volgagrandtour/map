@@ -1,0 +1,37 @@
+name: 🥕 Convert yaml 2 json - Python application
+on:
+  push:
+    branches: [ "main" ]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: 🥑 Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.x"
+
+    - name: 🥕  Convert yaml to json and .js
+      run: |
+        curl -sSLO https://raw.githubusercontent.com/andrewalevin/mapbox-adventure/main/utils/convert-tracks2json.sh
+        chmod +x convert-tracks2json.sh
+        ./convert-tracks2json.sh --yaml tracks.yaml --dir routes --var tracks
+        rm convert-tracks2json.sh
+
+    - name: 🍒 Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Apply automatic changes
+
+
+
+
+
+
+
+
+
