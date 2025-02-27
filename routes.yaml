@@ -5,25 +5,25 @@
   links:
     - 'https://volgagrandtour.github.io/#a0'
 - path: a1-ostashkov-torzhok.gpx
-  color: green1
+  color: limegreen
   title: Осташков - Торжок
   width: widthCycleRoute
   links:
     - 'https://volgagrandtour.github.io/#a1'
 - path: a2-torzhok-tver.gpx
-  color: green2
+  color: greenyellow
   title: Торжок - Тверь
   width: widthCycleRoute
   links:
     - 'https://volgagrandtour.github.io/#a2'
 - path: a3-tver-toporok.gpx
-  color: green1
+  color: limegreen
   title: Тверь - Конаково
   width: widthCycleRoute
   links:
     - 'https://volgagrandtour.github.io/#a3'
 - path: a3b-tver-toporok-gravel-short-part-of-a3.gpx
-  color: green2
+  color: greenyellow
   title: Гравийный вариант по берегу Тверь - Конаково
   width: widthCycleRoute
   links:
@@ -35,7 +35,7 @@
   links:
     - 'https://volgagrandtour.github.io/#river-1'
 - path: b1-konakovo-dubna.gpx
-  color: green2
+  color: greenyellow
   title: Конаково - Дубна
   width: widthCycleRoute
   links:
@@ -47,7 +47,7 @@
   links:
     - 'https://volgagrandtour.github.io/#river-2'
 - path: b2-dubna-kimry.gpx
-  color: green1
+  color: limegreen
   title: Дубна - Кимры (Савелово)
   width: widthCycleRoute
   links:
@@ -59,13 +59,13 @@
   links:
     - 'https://volgagrandtour.github.io/#b3'
 - path: c1-kalyazin-uglich.gpx
-  color: green1
+  color: limegreen
   title: Калязин - Углич
   width: widthCycleRoute
   links:
     - 'https://volgagrandtour.github.io/#c1'
 - path: c2-uglich-myshkin.gpx
-  color: green2
+  color: greenyellow
   title: Углич - Мышкин
   width: widthCycleRoute
   links:
