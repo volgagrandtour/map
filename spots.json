@@ -1,165 +1,292 @@
 [
   {
-    "coords": "55.728306, 36.816050",
-    "title": "Саввино-Сторожевский монастырь",
-    "img": "savvino-storochevskiy.png",
-    "link": "https://yandex.ru/maps/-/CHQymPP3"
+    "coords": "57.251332, 32.467774",
+    "id": "p0",
+    "title": "Исток реки Волги",
+    "img": "p0-volgoverkhovie.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p0",
+      "https://yandex.ru/maps/-/CHQXVXKv"
+    ]
   },
   {
-    "coords": "55.736574, 36.813358",
-    "title": "Саввинский скит",
-    "link": "https://yandex.ru/maps/-/CHQyqYLq",
-    "img": "savin-skit.jpg"
+    "coords": "57.155667, 33.100617",
+    "id": "p1",
+    "title": "Осташков. Старая колокольня в центральном парке",
+    "img": "p1-ostashkov.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p1",
+      "https://yandex.ru/maps/-/CHQ1v4Ip"
+    ]
   },
   {
-    "coords": "55.752252, 36.806374",
-    "title": "Музей С. И. Танеева в Дютькове",
-    "link": "https://yandex.ru/maps/-/CHQyqF4E",
-    "img": "taneev.jpg"
+    "coords": "57.040948, 34.961115",
+    "title": "Торжок. Пешеходный старый вантовый мост рядом с памятником Н.А. Львову",
+    "id": "p2",
+    "img": "p2-torzhok.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p2",
+      "https://yandex.ru/maps/-/CHQ1vFIA"
+    ]
   },
   {
-    "coords": "55.733105, 36.840294",
-    "title": "Успенский собор в Городке",
-    "img": "uspensky-sobor.png",
-    "link": "https://yandex.ru/maps/-/CHQym47n"
+    "coords": "56.863514, 35.901868",
+    "title": "Тверь. Памятник А.С. Пушкину на набережной Волги",
+    "id": "p3",
+    "img": "p3-tver.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p3",
+      "https://yandex.ru/maps/-/CHQ1vF1J"
+    ]
   },
   {
-    "coords": "55.735687, 36.837448",
-    "title": "Вал Городок",
-    "img": "gorodok-zvenigorod.png"
+    "coords": "56.705118, 36.712557",
+    "title": "Переправа Топорок (с тверской стороны напротив Конаково)",
+    "id": "p3a",
+    "img": "p3a-toporok.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p3a",
+      "https://yandex.ru/maps/-/CHQLzZOi"
+    ]
   },
   {
-    "coords": "55.735173, 36.846941",
-    "title": "Дом Чехова",
-    "img": "dom-chehova.png",
-    "link": "https://yandex.ru/maps/-/CHQymYOg"
+    "coords": "56.695921, 36.732630",
+    "title": "🚢 Переправа Зеленый Бор. В Конаково",
+    "id": "p3b",
+    "img": "p3b-zelbor.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p3b",
+      "https://yandex.ru/maps/-/CHQLzZ9K"
+    ]
   },
   {
-    "coords": "55.733398, 36.848732",
-    "title": "Малиновый овраг",
-    "link": "https://yandex.ru/maps/-/CHQymQOT",
-    "img": "malinov-ovrag.jpg"
+    "coords": "56.705108, 36.749283",
+    "title": "Конаково. Сосновый бор и смотровая площадка",
+    "id": "p4",
+    "img": "p4-konakovo.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p4",
+      "https://yandex.ru/maps/-/CHQLzZYB"
+    ]
   },
   {
-    "coords": "55.729897, 36.859526",
-    "title": "Манеж",
-    "img": "zvenigorod-manesh.png",
-    "link": "https://yandex.ru/maps/-/CHQymMIq"
+    "coords": "56.713778, 37.132807",
+    "title": "🚢 Переправа через канал (Конаковский берег)",
+    "id": "p4a",
+    "img": "p4a-kanal.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p4a",
+      "https://yandex.ru/maps/-/CHQLzKnn"
+    ]
   },
   {
-    "coords": "55.730249, 36.852574",
-    "title": "Кофейня ДОМ",
-    "img": "zvenigorod-dom.png",
-    "link": "https://yandex.ru/maps/-/CHQyiHjN"
+    "coords": "56.714377, 37.134082",
+    "title": "🚢 Переправа через канал (Дубненский берег)",
+    "id": "p4b",
+    "img": "p4b-kanal.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p4b",
+      "https://yandex.ru/maps/-/CHQLzKp9"
+    ]
   },
   {
-    "coords": "55.730106, 36.856385",
-    "title": "Хлебник Кофейня",
-    "link": "https://yandex.ru/maps/-/CHQymAPu",
-    "img": "hlebnik.jpg"
+    "coords": "56.730965, 37.124717",
+    "title": "Дубна. Памятник В.И. Ленину",
+    "id": "p5",
+    "img": "p5-dubna.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p5",
+      "https://yandex.ru/maps/-/CHQ1vSkg"
+    ]
   },
   {
-    "coords": "55.614138, 36.418904",
-    "title": "Старый ЖД мост на Марсе",
-    "img": "most-mars.png"
+    "coords": "56.857229, 37.365838",
+    "title": "Кимры (Савелово). Песчаная набережная на стороне вокзала",
+    "id": "p6",
+    "img": "p6-kimry.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p6",
+      "https://yandex.ru/maps/-/CHQ1zR5U"
+    ]
   },
   {
-    "coords": "55.620465, 36.368776",
-    "title": "Подвесной мост в Ожигово",
-    "link": "https://yandex.ru/maps/-/CHQymHkb",
-    "img": "most-ochigovo.jpg"
+    "coords": "57.241691, 37.855486",
+    "title": "Калязин. Смотровая площадка на набережной с видом на колокольню",
+    "id": "p7",
+    "img": "p7-kalyazin.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p7",
+      "https://yandex.ru/maps/-/CHQ1j8-m"
+    ]
   },
   {
-    "coords": "55.641542, 36.304367",
-    "title": "Подвесной мост в Дорохово",
-    "link": "https://yandex.ru/maps/-/CHQWYX74",
-    "img": "most-dorochovo.jpg"
+    "coords": "57.530853, 38.320916",
+    "title": "Углич. Пристань на набережной",
+    "id": "p8",
+    "img": "p8-uglich.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p8",
+      "https://yandex.ru/maps/-/CHQ1j2Jx"
+    ]
   },
   {
-    "coords": "55.608452, 36.426499",
-    "title": "Подвестной мост на Марсе",
-    "img": "most-mars-yellow.png",
-    "link": "https://yandex.ru/maps/-/CHQymSnP"
+    "coords": "57.785985, 38.457988",
+    "title": "Мышкин. Пристань с торговыми рядами",
+    "id": "p9",
+    "img": "p9-myshkin.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p9",
+      "https://yandex.ru/maps/-/CHQ1nB5a"
+    ]
   },
   {
-    "coords": "55.619914, 36.489340",
-    "title": "Мост в Игнатьево",
-    "link": "https://yandex.ru/maps/-/CHQymWJq",
-    "img": "most-ignatevo.jpg"
+    "coords": "57.986915, 38.424874",
+    "title": "🚢 Переправа в Солнцево. На Мышкинской стороне",
+    "id": "p9a",
+    "img": "p9a-solntsevo.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p9a",
+      "https://yandex.ru/maps/-/CHQ1nFPi"
+    ]
   },
   {
-    "coords": "55.607456, 36.530802",
-    "title": "Полушкинские каменоломни и природный берег",
-    "img": "pokushkino-kamenolomni.png",
-    "link": "https://yandex.ru/maps/-/CHQymOjT"
+    "coords": "57.986355, 38.449303",
+    "title": "🚢 Переправа в Глебово. Со стороны Рыбинска",
+    "id": "p9b",
+    "img": "p9b-glebovo.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p9b",
+      "https://yandex.ru/maps/-/CHQ1nJOC"
+    ]
   },
   {
-    "coords": "55.609343, 36.588827",
-    "title": "Подвестной мост Васильевское",
-    "img": "most-vasilevo.png",
-    "link": "https://yandex.ru/maps/-/CHQymCN5"
+    "coords": "58.050167, 38.854570",
+    "title": "Рыбинск. Пристань на набережной",
+    "id": "p10",
+    "img": "p10-rybinsk.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p10",
+      "https://yandex.ru/maps/-/CHQ1nN0A"
+    ]
   },
   {
-    "coords": "55.610400, 36.588942",
-    "title": "Церковь в Васильевском",
-    "link": "https://yandex.ru/maps/-/CHQymK7V",
-    "img": "vasilyevskoe-hram.jpg"
+    "coords": "57.880701, 39.535863",
+    "title": "Тутаев (Романовская сторона). Смотровая площадка храма и Волги (напротив дома Дмитриева с красивым видом на Казанскую-Преображенскую церковь)",
+    "id": "p11",
+    "img": "p11-tutayev.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p11",
+      "https://yandex.ru/maps/-/CHQ1nR5U"
+    ]
   },
   {
-    "coords": "55.669569, 36.712739",
-    "title": "Болота Карьера Сима",
-    "img": "karery-sima.png",
-    "link": "https://yandex.ru/maps/-/CHQym6YT"
+    "coords": "57.621442, 39.904190",
+    "title": "Ярославль. Смотровая площадка на стрелке",
+    "id": "p12",
+    "img": "p12-yaroslavl.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p12",
+      "https://yandex.ru/maps/-/CHQ1nZIS"
+    ]
   },
   {
-    "coords": "55.705651, 36.688905",
-    "title": "Подвестной мост в Гигерево",
-    "img": "most-gigerevo.png",
-    "link": "https://yandex.ru/maps/-/CHQymZih"
+    "coords": "57.462546, 40.572427",
+    "title": "Нерехта",
+    "id": "p12a",
+    "img": "p12a-nerehta.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p12a",
+      "https://yandex.ru/maps/-/CHad7ClO"
+    ]
   },
   {
-    "coords": "55.700144, 36.723227",
-    "title": "Биостанция МГУ",
-    "img": "biostation.png"
+    "coords": "57.767815, 40.926999",
+    "title": "Кострома. Сусанинская площадь в центре",
+    "id": "p13",
+    "img": "p13-kostroma.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p13",
+      "https://yandex.ru/maps/-/CHQ1nKoI"
+    ]
   },
   {
-    "coords": "55.707140, 36.758704",
-    "title": "Родник на Биостанции",
-    "img": "rodnik-biostation.png"
+    "coords": "57.494938, 41.233934",
+    "title": "🚢 Переправа Красное на Волге. Пристань",
+    "id": "p13a",
+    "img": "p13a-krasnoe-pozhni.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p13a",
+      "https://yandex.ru/maps/-/CHQ1n88Q"
+    ]
   },
   {
-    "coords": "55.711426, 36.790150",
-    "title": "Мост БМО",
-    "img": "most-bmo.png"
+    "coords": "57.486621, 41.234187",
+    "title": "Переправа Красные Пожни. Пристань",
+    "id": "p13b",
+    "img": "p13b-pozhni-ples.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p13b",
+      "https://yandex.ru/maps/-/CHQ1n0Yf"
+    ]
   },
   {
-    "coords": "55.700183, 36.881061",
-    "title": "Станция Звенигород",
-    "img": "zvenigorod-station.png",
-    "link": "https://yandex.ru/maps/-/CHQymR7w"
+    "coords": "57.461264, 41.513416",
+    "title": "Плёс. Памятник Ф.И. Шаляпину на набережной",
+    "id": "p14",
+    "img": "p14-ples.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p14",
+      "https://yandex.ru/maps/-/CHQ1nD1I"
+    ]
   },
   {
-    "coords": "55.707168, 36.872188",
-    "title": "Усадьба Введенское",
-    "link": "https://yandex.ru/maps/-/CHQymJ~Q",
-    "img": "vvedenskoe.jpg"
+    "coords": "57.463015, 41.539350",
+    "title": "🚢 Плёс. Пристань в Гравийном карьере. На другой стороне от Плеса",
+    "id": "p14b",
+    "img": "p14b-krasnoe-grav.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p14b",
+      "https://yandex.ru/maps/-/CHQ1nHNV"
+    ]
   },
   {
-    "coords": "55.646115, 36.969831",
-    "title": "Усадьба Захарово",
-    "img": "zaharovo.png",
-    "link": "https://yandex.ru/maps/-/CHQyqMmr"
+    "coords": "57.443752, 42.174053",
+    "title": "Кинешма. Смотровая площадка на стрелке",
+    "id": "p15",
+    "img": "p15-kineshma.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p15",
+      "https://yandex.ru/maps/-/CHQ1nSiE"
+    ]
   },
   {
-    "coords": "55.628342, 36.991944",
-    "title": "Усадьба Большие Вяземы",
-    "img": "bolshy-vyazemy.png",
-    "link": "https://yandex.ru/maps/-/CHQyqM~2"
+    "coords": "57.318713, 43.111136",
+    "title": "Юрьевец. Центральная площадь рядом с Георгиевской колокольней",
+    "id": "p16",
+    "img": "p16-yurevets.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p16",
+      "https://yandex.ru/maps/-/CHQ1nL6O"
+    ]
   },
   {
-    "coords": "55.627802, 36.990744",
-    "title": "Преображенская церковь в Вяземах",
-    "img": "church-vyazemy.png",
-    "link": "https://yandex.ru/maps/-/CHQyqQOz"
+    "coords": "56.641548, 43.464703",
+    "title": "Городец. Памятник Александру Невскому на смотровой площадке",
+    "id": "p17",
+    "img": "p17-gorodets.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p17",
+      "https://yandex.ru/maps/-/CHQ1rI7u"
+    ]
+  },
+  {
+    "coords": "56.330028, 44.009432",
+    "title": "Нижний Новгород. Чкаловская лестница рядом с Кремлем",
+    "id": "p18",
+    "img": "p18-nnovgorod.jpg",
+    "links": [
+      "https://grandvolgatour.github.io/#p18",
+      "https://yandex.ru/maps/-/CHQ1rMmn"
+    ]
   }
 ]
