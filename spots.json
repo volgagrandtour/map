@@ -1,0 +1,165 @@
+[
+  {
+    "coords": "55.728306, 36.816050",
+    "title": "Саввино-Сторожевский монастырь",
+    "img": "savvino-storochevskiy.png",
+    "link": "https://yandex.ru/maps/-/CHQymPP3"
+  },
+  {
+    "coords": "55.736574, 36.813358",
+    "title": "Саввинский скит",
+    "link": "https://yandex.ru/maps/-/CHQyqYLq",
+    "img": "savin-skit.jpg"
+  },
+  {
+    "coords": "55.752252, 36.806374",
+    "title": "Музей С. И. Танеева в Дютькове",
+    "link": "https://yandex.ru/maps/-/CHQyqF4E",
+    "img": "taneev.jpg"
+  },
+  {
+    "coords": "55.733105, 36.840294",
+    "title": "Успенский собор в Городке",
+    "img": "uspensky-sobor.png",
+    "link": "https://yandex.ru/maps/-/CHQym47n"
+  },
+  {
+    "coords": "55.735687, 36.837448",
+    "title": "Вал Городок",
+    "img": "gorodok-zvenigorod.png"
+  },
+  {
+    "coords": "55.735173, 36.846941",
+    "title": "Дом Чехова",
+    "img": "dom-chehova.png",
+    "link": "https://yandex.ru/maps/-/CHQymYOg"
+  },
+  {
+    "coords": "55.733398, 36.848732",
+    "title": "Малиновый овраг",
+    "link": "https://yandex.ru/maps/-/CHQymQOT",
+    "img": "malinov-ovrag.jpg"
+  },
+  {
+    "coords": "55.729897, 36.859526",
+    "title": "Манеж",
+    "img": "zvenigorod-manesh.png",
+    "link": "https://yandex.ru/maps/-/CHQymMIq"
+  },
+  {
+    "coords": "55.730249, 36.852574",
+    "title": "Кофейня ДОМ",
+    "img": "zvenigorod-dom.png",
+    "link": "https://yandex.ru/maps/-/CHQyiHjN"
+  },
+  {
+    "coords": "55.730106, 36.856385",
+    "title": "Хлебник Кофейня",
+    "link": "https://yandex.ru/maps/-/CHQymAPu",
+    "img": "hlebnik.jpg"
+  },
+  {
+    "coords": "55.614138, 36.418904",
+    "title": "Старый ЖД мост на Марсе",
+    "img": "most-mars.png"
+  },
+  {
+    "coords": "55.620465, 36.368776",
+    "title": "Подвесной мост в Ожигово",
+    "link": "https://yandex.ru/maps/-/CHQymHkb",
+    "img": "most-ochigovo.jpg"
+  },
+  {
+    "coords": "55.641542, 36.304367",
+    "title": "Подвесной мост в Дорохово",
+    "link": "https://yandex.ru/maps/-/CHQWYX74",
+    "img": "most-dorochovo.jpg"
+  },
+  {
+    "coords": "55.608452, 36.426499",
+    "title": "Подвестной мост на Марсе",
+    "img": "most-mars-yellow.png",
+    "link": "https://yandex.ru/maps/-/CHQymSnP"
+  },
+  {
+    "coords": "55.619914, 36.489340",
+    "title": "Мост в Игнатьево",
+    "link": "https://yandex.ru/maps/-/CHQymWJq",
+    "img": "most-ignatevo.jpg"
+  },
+  {
+    "coords": "55.607456, 36.530802",
+    "title": "Полушкинские каменоломни и природный берег",
+    "img": "pokushkino-kamenolomni.png",
+    "link": "https://yandex.ru/maps/-/CHQymOjT"
+  },
+  {
+    "coords": "55.609343, 36.588827",
+    "title": "Подвестной мост Васильевское",
+    "img": "most-vasilevo.png",
+    "link": "https://yandex.ru/maps/-/CHQymCN5"
+  },
+  {
+    "coords": "55.610400, 36.588942",
+    "title": "Церковь в Васильевском",
+    "link": "https://yandex.ru/maps/-/CHQymK7V",
+    "img": "vasilyevskoe-hram.jpg"
+  },
+  {
+    "coords": "55.669569, 36.712739",
+    "title": "Болота Карьера Сима",
+    "img": "karery-sima.png",
+    "link": "https://yandex.ru/maps/-/CHQym6YT"
+  },
+  {
+    "coords": "55.705651, 36.688905",
+    "title": "Подвестной мост в Гигерево",
+    "img": "most-gigerevo.png",
+    "link": "https://yandex.ru/maps/-/CHQymZih"
+  },
+  {
+    "coords": "55.700144, 36.723227",
+    "title": "Биостанция МГУ",
+    "img": "biostation.png"
+  },
+  {
+    "coords": "55.707140, 36.758704",
+    "title": "Родник на Биостанции",
+    "img": "rodnik-biostation.png"
+  },
+  {
+    "coords": "55.711426, 36.790150",
+    "title": "Мост БМО",
+    "img": "most-bmo.png"
+  },
+  {
+    "coords": "55.700183, 36.881061",
+    "title": "Станция Звенигород",
+    "img": "zvenigorod-station.png",
+    "link": "https://yandex.ru/maps/-/CHQymR7w"
+  },
+  {
+    "coords": "55.707168, 36.872188",
+    "title": "Усадьба Введенское",
+    "link": "https://yandex.ru/maps/-/CHQymJ~Q",
+    "img": "vvedenskoe.jpg"
+  },
+  {
+    "coords": "55.646115, 36.969831",
+    "title": "Усадьба Захарово",
+    "img": "zaharovo.png",
+    "link": "https://yandex.ru/maps/-/CHQyqMmr"
+  },
+  {
+    "coords": "55.628342, 36.991944",
+    "title": "Усадьба Большие Вяземы",
+    "img": "bolshy-vyazemy.png",
+    "link": "https://yandex.ru/maps/-/CHQyqM~2"
+  },
+  {
+    "coords": "55.627802, 36.990744",
+    "title": "Преображенская церковь в Вяземах",
+    "img": "church-vyazemy.png",
+    "link": "https://yandex.ru/maps/-/CHQyqQOz"
+  }
+]
