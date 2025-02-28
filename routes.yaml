@@ -72,19 +72,19 @@
     - 'https://volgagrandtour.github.io/#c2'
 - path: rw1-bologoe-ostachkov.gpx
   title: "\U0001F682 Бологое - Осташков"
-  color: railwayColor
+  color: DarkGoldenRod
   width: widthRailway
   links:
     - 'https://volgagrandtour.github.io/#rw1'
 - path: rw1a-ostashkov-kuvchinovo.gpx
   title: "\U0001F682 Осташков - Кувшиново"
-  color: railwayColor
+  color: DarkGoldenRod
   width: widthRailway
   links:
     - 'https://volgagrandtour.github.io/#rw1a'
 - path: rw2-torzhok-tver.gpx
   title: "\U0001F682 Торжок - Тверь"
-  color: railwayColor
+  color: DarkGoldenRod
   width: widthRailway
   links:
     - 'https://volgagrandtour.github.io/#rw2'
