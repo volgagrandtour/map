@@ -58709,7 +58709,7 @@
     "path": "rw1-bologoe-ostachkov.gpx",
     "title": "🚂 Бологое - Осташков",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw1"
     ],
@@ -61196,7 +61196,7 @@
     "path": "rw1a-ostashkov-kuvchinovo.gpx",
     "title": "🚂 Осташков - Кувшиново",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw1a"
     ],
@@ -64499,7 +64499,7 @@
     "path": "rw2-torzhok-tver.gpx",
     "title": "🚂 Торжок - Тверь",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw2"
     ],
@@ -65678,7 +65678,7 @@
     "path": "rw7-kimry-kalyazin.gpx",
     "title": "🚂 Кимры (Савелово) - Калязин",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw7"
     ],
@@ -66533,7 +66533,7 @@
     "path": "rw8-kalyazin-uglich.gpx",
     "title": "🚂 Калязин - Углич",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw8"
     ],
@@ -67196,7 +67196,7 @@
     "path": "rw9-kalyazin-volga.gpx",
     "title": "🚂 Калязин - ст. Волга (Глебово)",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw9"
     ],
@@ -69299,7 +69299,7 @@
     "path": "rw10-volga-rybinsk.gpx",
     "title": "🚂 ст. Волга (Глебово) - Рыбинск",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw10"
     ],
@@ -69630,7 +69630,7 @@
     "path": "rw11-rybinsk-yaroslavl.gpx",
     "title": "🚂 Рыбинск - Тутаев - Ярославль",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw11"
     ],
@@ -73019,7 +73019,7 @@
     "path": "rw18-zavolchye-nn.gpx",
     "title": "🚂 Заволжье (Городец) - Нижний Новгород (на поезде)",
     "color": "DarkGoldenRod",
-    "width": "widthRailway",
+    "width": 2,
     "links": [
       "https://volgagrandtour.github.io/#rw18"
     ],
