@@ -1,6 +1,7 @@
 [
   {
     "path": "a0-ostashkov-volgoverkhovye.gpx",
+    "id": "a0",
     "color": "fuchsia",
     "title": "Осташков - Волговерховье - Осташков",
     "width": "widthCycleRoute",
@@ -2708,6 +2709,7 @@
   },
   {
     "path": "a1-ostashkov-torzhok.gpx",
+    "id": "a1",
     "color": "limegreen",
     "title": "Осташков - Торжок",
     "width": "widthCycleRoute",
@@ -6243,6 +6245,7 @@
   },
   {
     "path": "a2-torzhok-tver.gpx",
+    "id": "a2",
     "color": "greenyellow",
     "title": "Торжок - Тверь",
     "width": "widthCycleRoute",
@@ -12274,6 +12277,7 @@
   },
   {
     "path": "a3-tver-toporok.gpx",
+    "id": "a3",
     "color": "limegreen",
     "title": "Тверь - Конаково",
     "width": "widthCycleRoute",
@@ -15773,6 +15777,7 @@
   },
   {
     "path": "a3b-tver-toporok-gravel-short-part-of-a3.gpx",
+    "id": "a3b",
     "color": "greenyellow",
     "title": "Гравийный вариант по берегу Тверь - Конаково",
     "width": "widthCycleRoute",
@@ -19519,6 +19524,7 @@
   },
   {
     "path": "b1-konakovo-dubna.gpx",
+    "id": "b1",
     "color": "greenyellow",
     "title": "Конаково - Дубна",
     "width": "widthCycleRoute",
@@ -20813,6 +20819,7 @@
   },
   {
     "path": "b2-dubna-kimry.gpx",
+    "id": "b2",
     "color": "limegreen",
     "title": "Дубна - Кимры (Савелово)",
     "width": "widthCycleRoute",
@@ -22712,6 +22719,7 @@
   },
   {
     "path": "b3-kimry-kalyazin.gpx",
+    "id": "b3",
     "color": "yellow",
     "title": "Кимры (Савелово) - Калязин",
     "width": "widthCycleRoute",
@@ -25683,6 +25691,7 @@
   },
   {
     "path": "c1-kalyazin-uglich.gpx",
+    "id": "c1",
     "color": "limegreen",
     "title": "Калязин - Углич",
     "width": "widthCycleRoute",
@@ -27018,6 +27027,7 @@
   },
   {
     "path": "c2-uglich-myshkin.gpx",
+    "id": "c2",
     "color": "greenyellow",
     "title": "Углич - Мышкин",
     "width": "widthCycleRoute",
@@ -28901,6 +28911,7 @@
   },
   {
     "path": "c3-myshkin-stvolga.gpx",
+    "id": "c3",
     "color": "limegreen",
     "title": "Мышкин - Станция Волга (Сменцево, паромная переправа)",
     "width": "widthCycleRoute",
@@ -29875,6 +29886,7 @@
   },
   {
     "path": "c4-stvolga-rybinsk.gpx",
+    "id": "c4",
     "color": "greenyellow",
     "title": "Станция Волга (Глебовская паромная переправа) - Рыбинск",
     "width": "widthCycleRoute",
@@ -31762,6 +31774,7 @@
   },
   {
     "path": "c5-rybinsk-tutayev.gpx",
+    "id": "c5",
     "color": "limegreen",
     "title": "Рыбинск - Тутаев (Романовская сторона)",
     "width": "widthCycleRoute",
@@ -35077,6 +35090,7 @@
   },
   {
     "path": "c6-tutayev-yaroslavl.gpx",
+    "id": "c6",
     "color": "greenyellow",
     "title": "Тутаев (Романовская сторона) - Ярославль",
     "width": "widthCycleRoute",
@@ -37632,6 +37646,7 @@
   },
   {
     "path": "d1-yaroslavl-kostroma.gpx",
+    "id": "d1",
     "color": "yellow",
     "title": "Ярославль - Кострома",
     "width": "widthCycleRoute",
@@ -41915,6 +41930,7 @@
   },
   {
     "path": "d11-nerehta-kostroma.gpx",
+    "id": "d11",
     "color": "greenyellow",
     "title": "Нерехта - Кострома",
     "width": "widthCycleRoute",
@@ -43934,6 +43950,7 @@
   },
   {
     "path": "d2-kostroma-krasnoe.gpx",
+    "id": "d2",
     "color": "limegreen",
     "limegreen": "Кострома - Красное на Волге",
     "width": "widthCycleRoute",
@@ -45784,6 +45801,7 @@
   },
   {
     "path": "d3-krasnoe-ples.gpx",
+    "id": "d3",
     "color": "greenyellow",
     "title": "Красное на Волге (другая сторона) - Плёс",
     "width": "widthCycleRoute",
@@ -46875,6 +46893,7 @@
   },
   {
     "path": "d4-ples-kineshma.gpx",
+    "id": "d4",
     "color": "limegreen",
     "title": "Плёс - Кинешма",
     "width": "widthCycleRoute",
@@ -50310,6 +50329,7 @@
   },
   {
     "path": "e1-kineshma-yurevets.gpx",
+    "id": "e1",
     "color": "greenyellow",
     "title": "Кинешма - Юрьевец",
     "width": "widthCycleRoute",
@@ -51773,6 +51793,7 @@
   },
   {
     "path": "e2-yurevets-gorodets.gpx",
+    "id": "e2",
     "color": "limegreen",
     "title": "Юрьевец - Городец",
     "width": "widthCycleRoute",
@@ -55724,6 +55745,7 @@
   },
   {
     "path": "e3-gorodets-nnovgorod.gpx",
+    "id": "e3",
     "color": "greenyellow",
     "title": "Городец - Нижний Новгород",
     "width": "widthCycleRoute",
@@ -58707,6 +58729,7 @@
   },
   {
     "path": "rw1-bologoe-ostachkov.gpx",
+    "id": "rw1",
     "title": "🚂 Бологое - Осташков",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -61194,6 +61217,7 @@
   },
   {
     "path": "rw1a-ostashkov-kuvchinovo.gpx",
+    "id": "rw1a",
     "title": "🚂 Осташков - Кувшиново",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -64497,6 +64521,7 @@
   },
   {
     "path": "rw2-torzhok-tver.gpx",
+    "id": "rw2",
     "title": "🚂 Торжок - Тверь",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -65676,6 +65701,7 @@
   },
   {
     "path": "rw7-kimry-kalyazin.gpx",
+    "id": "rw7",
     "title": "🚂 Кимры (Савелово) - Калязин",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -66531,6 +66557,7 @@
   },
   {
     "path": "rw8-kalyazin-uglich.gpx",
+    "id": "rw8",
     "title": "🚂 Калязин - Углич",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -67194,6 +67221,7 @@
   },
   {
     "path": "rw9-kalyazin-volga.gpx",
+    "id": "rw9",
     "title": "🚂 Калязин - ст. Волга (Глебово)",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -69297,6 +69325,7 @@
   },
   {
     "path": "rw10-volga-rybinsk.gpx",
+    "id": "rw10",
     "title": "🚂 ст. Волга (Глебово) - Рыбинск",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -69628,6 +69657,7 @@
   },
   {
     "path": "rw11-rybinsk-yaroslavl.gpx",
+    "id": "rw11",
     "title": "🚂 Рыбинск - Тутаев - Ярославль",
     "color": "DarkGoldenRod",
     "width": 2,
@@ -71055,6 +71085,7 @@
   },
   {
     "path": "rw12-yaroslavl-nerekhta.gpx",
+    "id": "rw12",
     "title": "🚂 Ярославль - Нерехта (на поезде)",
     "color": "DarkGoldenRod",
     "width": 3,
@@ -72046,6 +72077,7 @@
   },
   {
     "path": "rw13-nerekhta-kostroma.gpx",
+    "id": "rw13",
     "title": "🚂 Нерехта - Кострома (на поезде)",
     "color": "DarkGoldenRod",
     "width": 3,
@@ -73017,6 +73049,7 @@
   },
   {
     "path": "rw18-zavolchye-nn.gpx",
+    "id": "rw18",
     "title": "🚂 Заволжье (Городец) - Нижний Новгород (на поезде)",
     "color": "DarkGoldenRod",
     "width": 2,
