@@ -20,6 +20,7 @@ jobs:
         curl -sSLO https://raw.githubusercontent.com/andrewalevin/mapbox-adventure/main/utils/convert-tracks2json.sh
         chmod +x convert-tracks2json.sh
         ./convert-tracks2json.sh --yaml routes.yaml --dir tracks --var tracks
+        ./convert-tracks2json.sh --yaml spots.yaml --var spots
         rm convert-tracks2json.sh
 
     - name: 🍒 Git Auto Commit
