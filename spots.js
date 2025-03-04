@@ -1,4 +1,4 @@
-[
+const spots = [
   {
     "coords": "57.251332, 32.467774",
     "id": "p0",
@@ -397,4 +397,4 @@
     "kind": "landmark",
     "points": []
   }
-]
+];
