@@ -355,10 +355,7 @@
       "https://yandex.ru/maps/-/CHBiVNy3"
     ],
     "kind": "landmark",
-    "points": [],
-    "icon": "train1.png",
-    "iconcolor": "red"
-
+    "points": []
   },
   {
     "coords": "56.934330, 35.435797",
