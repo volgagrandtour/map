@@ -355,15 +355,11 @@
       "https://yandex.ru/maps/-/CHBiVNy3"
     ],
     "kind": "landmark",
-<<<<<<< HEAD
     "points": [],
     "icon": "train1.png",
     "iconcolor": "red",
     "iconwidth": "40px"
 
-=======
-    "points": []
->>>>>>> refs/remotes/origin/main
   },
   {
     "coords": "56.934330, 35.435797",
