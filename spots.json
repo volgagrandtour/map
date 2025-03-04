@@ -357,7 +357,8 @@
     "kind": "landmark",
     "points": [],
     "icon": "train1.png",
-    "iconcolor": "red"
+    "iconcolor": "red",
+    "iconwidth": "40px"
 
   },
   {
