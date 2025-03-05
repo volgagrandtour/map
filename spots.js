@@ -12,7 +12,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.155667, 33.100617",
+    "coords": "57.113122, 33.130846",
     "id": "p1",
     "title": "Осташков. Старая колокольня в центральном парке",
     "img": "p1-ostashkov.jpg",
@@ -24,7 +24,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.040948, 34.961115",
+    "coords": "57.019655, 34.974739",
     "title": "Торжок. Пешеходный старый вантовый мост рядом с памятником Н.А. Львову",
     "id": "p2",
     "img": "p2-torzhok.jpg",
@@ -36,7 +36,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "56.863514, 35.901868",
+    "coords": "56.803859, 35.929546",
     "title": "Тверь. Памятник А.С. Пушкину на набережной Волги",
     "id": "p3",
     "img": "p3-tver.jpg",
@@ -48,31 +48,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "56.705118, 36.712557",
-    "title": "Переправа Топорок (с тверской стороны напротив Конаково)",
-    "id": "p3a",
-    "img": "p3a-toporok.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p3a",
-      "https://yandex.ru/maps/-/CHQLzZOi"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "56.695921, 36.732630",
-    "title": "🚢 Переправа Зеленый Бор. В Конаково",
-    "id": "p3b",
-    "img": "p3b-zelbor.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p3b",
-      "https://yandex.ru/maps/-/CHQLzZ9K"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "56.705108, 36.749283",
+    "coords": "56.672394, 36.769016",
     "title": "Конаково. Сосновый бор и смотровая площадка",
     "id": "p4",
     "img": "p4-konakovo.jpg",
@@ -84,31 +60,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "56.713778, 37.132807",
-    "title": "🚢 Переправа через канал (Конаковский берег)",
-    "id": "p4a",
-    "img": "p4a-kanal.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p4a",
-      "https://yandex.ru/maps/-/CHQLzKnn"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "56.714377, 37.134082",
-    "title": "🚢 Переправа через канал (Дубненский берег)",
-    "id": "p4b",
-    "img": "p4b-kanal.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p4b",
-      "https://yandex.ru/maps/-/CHQLzKp9"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "56.730965, 37.124717",
+    "coords": "56.693267, 37.148927",
     "title": "Дубна. Памятник В.И. Ленину",
     "id": "p5",
     "img": "p5-dubna.jpg",
@@ -120,7 +72,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "56.857229, 37.365838",
+    "coords": "56.841350, 37.381099",
     "title": "Кимры (Савелово). Песчаная набережная на стороне вокзала",
     "id": "p6",
     "img": "p6-kimry.jpg",
@@ -132,7 +84,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.241691, 37.855486",
+    "coords": "57.220910, 37.859720",
     "title": "Калязин. Смотровая площадка на набережной с видом на колокольню",
     "id": "p7",
     "img": "p7-kalyazin.jpg",
@@ -144,7 +96,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.530853, 38.320916",
+    "coords": "57.522181, 38.348997",
     "title": "Углич. Пристань на набережной",
     "id": "p8",
     "img": "p8-uglich.jpg",
@@ -156,7 +108,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.785985, 38.457988",
+    "coords": "57.803806, 38.464952",
     "title": "Мышкин. Пристань с торговыми рядами",
     "id": "p9",
     "img": "p9-myshkin.jpg",
@@ -168,31 +120,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.986915, 38.424874",
-    "title": "🚢 Переправа в Солнцево. На Мышкинской стороне",
-    "id": "p9a",
-    "img": "p9a-solntsevo.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p9a",
-      "https://yandex.ru/maps/-/CHQ1nFPi"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "57.986355, 38.449303",
-    "title": "🚢 Переправа в Глебово. Со стороны Рыбинска",
-    "id": "p9b",
-    "img": "p9b-glebovo.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p9b",
-      "https://yandex.ru/maps/-/CHQ1nJOC"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "58.050167, 38.854570",
+    "coords": "58.027660, 38.861298",
     "title": "Рыбинск. Пристань на набережной",
     "id": "p10",
     "img": "p10-rybinsk.jpg",
@@ -204,7 +132,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.880701, 39.535863",
+    "coords": "57.900207, 39.543502",
     "title": "Тутаев (Романовская сторона). Смотровая площадка храма и Волги (напротив дома Дмитриева с красивым видом на Казанскую-Преображенскую церковь)",
     "id": "p11",
     "img": "p11-tutayev.jpg",
@@ -216,7 +144,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.621442, 39.904190",
+    "coords": "57.595285, 39.859734",
     "title": "Ярославль. Смотровая площадка на стрелке",
     "id": "p12",
     "img": "p12-yaroslavl.jpg",
@@ -393,6 +321,78 @@ const spots = [
     "id": "smotrovaya-ryadom-uryevets",
     "links": [
       "https://yandex.ru/maps/-/CHBiZFpH"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "56.705118, 36.712557",
+    "title": "Переправа Топорок (с тверской стороны напротив Конаково)",
+    "id": "p3a",
+    "img": "p3a-toporok.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p3a",
+      "https://yandex.ru/maps/-/CHQLzZOi"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "56.695921, 36.732630",
+    "title": "🚢 Переправа Зеленый Бор. В Конаково",
+    "id": "p3b",
+    "img": "p3b-zelbor.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p3b",
+      "https://yandex.ru/maps/-/CHQLzZ9K"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "56.713778, 37.132807",
+    "title": "🚢 Переправа через канал (Конаковский берег)",
+    "id": "p4a",
+    "img": "p4a-kanal.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p4a",
+      "https://yandex.ru/maps/-/CHQLzKnn"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "56.714377, 37.134082",
+    "title": "🚢 Переправа через канал (Дубненский берег)",
+    "id": "p4b",
+    "img": "p4b-kanal.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p4b",
+      "https://yandex.ru/maps/-/CHQLzKp9"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "57.986915, 38.424874",
+    "title": "🚢 Переправа в Солнцево. На Мышкинской стороне",
+    "id": "p9a",
+    "img": "p9a-solntsevo.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p9a",
+      "https://yandex.ru/maps/-/CHQ1nFPi"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "57.986355, 38.449303",
+    "title": "🚢 Переправа в Глебово. Со стороны Рыбинска",
+    "id": "p9b",
+    "img": "p9b-glebovo.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p9b",
+      "https://yandex.ru/maps/-/CHQ1nJOC"
     ],
     "kind": "landmark",
     "points": []
