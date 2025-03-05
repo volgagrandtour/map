@@ -108,7 +108,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.805652, 38.439681",
+    "coords": "57.768857, 38.442213",
     "title": "Мышкин",
     "id": "p9",
     "img": "p9-myshkin.jpg",
