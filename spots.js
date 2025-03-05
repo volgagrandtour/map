@@ -156,7 +156,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.462546, 40.572427",
+    "coords": "57.438383, 40.580187",
     "title": "Нерехта",
     "id": "p12a",
     "img": "p12a-nerehta.jpg",
@@ -168,7 +168,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.767815, 40.926999",
+    "coords": "57.730341, 40.919141",
     "title": "Кострома. Сусанинская площадь в центре",
     "id": "p13",
     "img": "p13-kostroma.jpg",
@@ -180,31 +180,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.494938, 41.233934",
-    "title": "🚢 Переправа Красное на Волге. Пристань",
-    "id": "p13a",
-    "img": "p13a-krasnoe-pozhni.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p13a",
-      "https://yandex.ru/maps/-/CHQ1n88Q"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "57.486621, 41.234187",
-    "title": "Переправа Красные Пожни. Пристань",
-    "id": "p13b",
-    "img": "p13b-pozhni-ples.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p13b",
-      "https://yandex.ru/maps/-/CHQ1n0Yf"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "57.461264, 41.513416",
+    "coords": "57.454296, 41.513076",
     "title": "Плёс. Памятник Ф.И. Шаляпину на набережной",
     "id": "p14",
     "img": "p14-ples.jpg",
@@ -216,19 +192,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.463015, 41.539350",
-    "title": "🚢 Плёс. Пристань в Гравийном карьере. На другой стороне от Плеса",
-    "id": "p14b",
-    "img": "p14b-krasnoe-grav.jpg",
-    "links": [
-      "https://volgagrandtour.github.io/#p14b",
-      "https://yandex.ru/maps/-/CHQ1nHNV"
-    ],
-    "kind": "town",
-    "points": []
-  },
-  {
-    "coords": "57.443752, 42.174053",
+    "coords": "57.408516, 42.157735",
     "title": "Кинешма. Смотровая площадка на стрелке",
     "id": "p15",
     "img": "p15-kineshma.jpg",
@@ -240,7 +204,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.318713, 43.111136",
+    "coords": "57.297274, 43.090867",
     "title": "Юрьевец. Центральная площадь рядом с Георгиевской колокольней",
     "id": "p16",
     "img": "p16-yurevets.jpg",
@@ -252,7 +216,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "56.641548, 43.464703",
+    "coords": "56.685446, 43.427728",
     "title": "Городец. Памятник Александру Невскому на смотровой площадке",
     "id": "p17",
     "img": "p17-gorodets.jpg",
@@ -264,7 +228,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "56.330028, 44.009432",
+    "coords": "56.345361, 43.924881",
     "title": "Нижний Новгород. Чкаловская лестница рядом с Кремлем",
     "id": "p18",
     "img": "p18-nnovgorod.jpg",
@@ -393,6 +357,30 @@ const spots = [
     "links": [
       "https://volgagrandtour.github.io/#p9b",
       "https://yandex.ru/maps/-/CHQ1nJOC"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "57.494938, 41.233934",
+    "title": "🚢 Переправа Красное на Волге. Пристань",
+    "id": "p13a",
+    "img": "p13a-krasnoe-pozhni.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p13a",
+      "https://yandex.ru/maps/-/CHQ1n88Q"
+    ],
+    "kind": "landmark",
+    "points": []
+  },
+  {
+    "coords": "57.486621, 41.234187",
+    "title": "Переправа Красные Пожни. Пристань",
+    "id": "p13b",
+    "img": "p13b-pozhni-ples.jpg",
+    "links": [
+      "https://volgagrandtour.github.io/#p13b",
+      "https://yandex.ru/maps/-/CHQ1n0Yf"
     ],
     "kind": "landmark",
     "points": []
