@@ -132,7 +132,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.868171, 39.601522",
+    "coords": "57.868339, 39.600718",
     "title": "Тутаев (Романовская сторона)",
     "id": "p11",
     "img": "p11-tutayev.jpg",
@@ -144,7 +144,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.569942, 39.934115",
+    "coords": "57.592007, 39.915426",
     "title": "Ярославль",
     "id": "p12",
     "img": "p12-yaroslavl.jpg",
@@ -156,7 +156,7 @@ const spots = [
     "points": []
   },
   {
-    "coords": "57.470410, 40.579313",
+    "coords": "57.489868, 40.613487",
     "title": "Нерехта",
     "id": "p12a",
     "img": "p12a-nerehta.jpg",
