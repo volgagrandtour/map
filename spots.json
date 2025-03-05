@@ -8,7 +8,8 @@
       "https://volgagrandtour.github.io/#p0",
       "https://yandex.ru/maps/-/CHQXVXKv"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.129582, 33.166817",
@@ -19,7 +20,8 @@
       "https://volgagrandtour.github.io/#p1",
       "https://yandex.ru/maps/-/CHQ1v4Ip"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.030008, 35.000084",
@@ -30,7 +32,8 @@
       "https://volgagrandtour.github.io/#p2",
       "https://yandex.ru/maps/-/CHQ1vFIA"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "56.844338, 35.793330",
@@ -41,7 +44,8 @@
       "https://volgagrandtour.github.io/#p3",
       "https://yandex.ru/maps/-/CHQ1vF1J"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "56.698791, 36.812645",
@@ -52,7 +56,8 @@
       "https://volgagrandtour.github.io/#p4",
       "https://yandex.ru/maps/-/CHQLzZYB"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "56.706842, 37.122055",
@@ -63,7 +68,8 @@
       "https://volgagrandtour.github.io/#p5",
       "https://yandex.ru/maps/-/CHQ1vSkg"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "56.841350, 37.381099",
@@ -74,7 +80,8 @@
       "https://volgagrandtour.github.io/#p6",
       "https://yandex.ru/maps/-/CHQ1zR5U"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.220910, 37.859720",
@@ -85,7 +92,8 @@
       "https://volgagrandtour.github.io/#p7",
       "https://yandex.ru/maps/-/CHQ1j8-m"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.498785, 38.349048",
@@ -96,7 +104,8 @@
       "https://volgagrandtour.github.io/#p8",
       "https://yandex.ru/maps/-/CHQ1j2Jx"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.768857, 38.442213",
@@ -107,7 +116,8 @@
       "https://volgagrandtour.github.io/#p9",
       "https://yandex.ru/maps/-/CHQ1nB5a"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "58.055882, 38.750527",
@@ -118,7 +128,8 @@
       "https://volgagrandtour.github.io/#p10",
       "https://yandex.ru/maps/-/CHQ1nN0A"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.868339, 39.600718",
@@ -129,7 +140,8 @@
       "https://volgagrandtour.github.io/#p11",
       "https://yandex.ru/maps/-/CHQ1nR5U"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.592007, 39.915426",
@@ -140,7 +152,8 @@
       "https://volgagrandtour.github.io/#p12",
       "https://yandex.ru/maps/-/CHQ1nZIS"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.489868, 40.613487",
@@ -151,7 +164,8 @@
       "https://volgagrandtour.github.io/#p12a",
       "https://yandex.ru/maps/-/CHad7ClO"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.743780, 40.861257",
@@ -162,7 +176,8 @@
       "https://volgagrandtour.github.io/#p13",
       "https://yandex.ru/maps/-/CHQ1nKoI"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.438167, 41.542297",
@@ -173,7 +188,8 @@
       "https://volgagrandtour.github.io/#p14",
       "https://yandex.ru/maps/-/CHQ1nD1I"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.423358, 42.223380",
@@ -184,7 +200,8 @@
       "https://volgagrandtour.github.io/#p15",
       "https://yandex.ru/maps/-/CHQ1nSiE"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "57.297274, 43.090867",
@@ -195,7 +212,8 @@
       "https://volgagrandtour.github.io/#p16",
       "https://yandex.ru/maps/-/CHQ1nL6O"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "56.685446, 43.427728",
@@ -206,7 +224,8 @@
       "https://volgagrandtour.github.io/#p17",
       "https://yandex.ru/maps/-/CHQ1rI7u"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "56.345361, 43.924881",
@@ -217,7 +236,8 @@
       "https://volgagrandtour.github.io/#p18",
       "https://yandex.ru/maps/-/CHQ1rMmn"
     ],
-    "kind": "town"
+    "kind": "town",
+    "points": []
   },
   {
     "coords": "56.955246, 35.252909",
@@ -226,7 +246,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBiVNy3"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.934330, 35.435797",
@@ -235,7 +256,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBiVKok"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.696700, 39.827412",
@@ -244,7 +266,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBiV8Oj"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.611278, 39.905862",
@@ -253,7 +276,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBiVHYj"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.257825, 43.022840",
@@ -262,7 +286,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBiZFpH"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.705118, 36.712557",
@@ -273,7 +298,8 @@
       "https://volgagrandtour.github.io/#p3a",
       "https://yandex.ru/maps/-/CHQLzZOi"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.695921, 36.732630",
@@ -284,7 +310,8 @@
       "https://volgagrandtour.github.io/#p3b",
       "https://yandex.ru/maps/-/CHQLzZ9K"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.713778, 37.132807",
@@ -295,7 +322,8 @@
       "https://volgagrandtour.github.io/#p4a",
       "https://yandex.ru/maps/-/CHQLzKnn"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.714377, 37.134082",
@@ -306,7 +334,8 @@
       "https://volgagrandtour.github.io/#p4b",
       "https://yandex.ru/maps/-/CHQLzKp9"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.986915, 38.424874",
@@ -317,7 +346,8 @@
       "https://volgagrandtour.github.io/#p9a",
       "https://yandex.ru/maps/-/CHQ1nFPi"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.986355, 38.449303",
@@ -328,7 +358,8 @@
       "https://volgagrandtour.github.io/#p9b",
       "https://yandex.ru/maps/-/CHQ1nJOC"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.494938, 41.233934",
@@ -339,7 +370,8 @@
       "https://volgagrandtour.github.io/#p13a",
       "https://yandex.ru/maps/-/CHQ1n88Q"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.486621, 41.234187",
@@ -350,7 +382,8 @@
       "https://volgagrandtour.github.io/#p13b",
       "https://yandex.ru/maps/-/CHQ1n0Yf"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.251332, 32.467774",
@@ -360,7 +393,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZyJmA"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.251266, 32.471617",
@@ -370,7 +404,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZyN1o"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.180965, 33.086900",
@@ -380,7 +415,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZyZmt"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.155667, 33.100617",
@@ -390,7 +426,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZy679"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.151872, 33.108743",
@@ -400,7 +437,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZyD4P"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.235439, 33.062241",
@@ -410,7 +448,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZyP0q"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.038762, 34.958700",
@@ -420,7 +459,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZy2JK"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.034018, 34.956530",
@@ -430,7 +470,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ5Amz"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.040948, 34.961115",
@@ -440,7 +481,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ5Q~x"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.045555, 34.968692",
@@ -450,7 +492,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ54pX"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.029217, 34.961966",
@@ -460,7 +503,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ5V2W"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.040762, 34.969699",
@@ -470,7 +514,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ56-D"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.862504, 35.899966",
@@ -480,7 +525,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ505X"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.863514, 35.901868",
@@ -490,7 +536,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ5DnR"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.861168, 35.901581",
@@ -500,7 +547,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ5L~y"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.859346, 35.922219",
@@ -510,7 +558,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ5T-B"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.861434, 35.916281",
@@ -520,7 +569,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZBAKu"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.799820, 36.183400",
@@ -530,7 +580,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZBF9y"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.705108, 36.749283",
@@ -540,7 +591,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZBZ7I"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.708429, 36.763905",
@@ -550,7 +602,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZBCjf"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.715337, 36.761545",
@@ -560,7 +613,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZFQYn"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.728355, 37.128975",
@@ -570,7 +624,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZFB1Y"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.730965, 37.124717",
@@ -580,7 +635,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZFNmZ"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.734651, 37.122224",
@@ -590,7 +646,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZFZLr"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.754402, 37.108806",
@@ -600,7 +657,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZFGJ0"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.874954, 37.356905",
@@ -610,7 +668,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZF87W"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.867535, 37.354832",
@@ -620,7 +679,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZFTyx"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.859806, 37.932351",
@@ -630,7 +690,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJA-0"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.243874, 37.856839",
@@ -640,7 +701,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJB8d"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.241691, 37.855486",
@@ -650,7 +712,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJNom"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.223008, 37.900336",
@@ -660,7 +723,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJ6zK"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.254415, 37.867397",
@@ -670,7 +734,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJ80K"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.525085, 38.299782",
@@ -680,7 +745,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJLJ-"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.524495, 38.303805",
@@ -690,7 +756,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJPNc"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.526166, 38.308126",
@@ -700,7 +767,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJ2lM"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.528446, 38.317633",
@@ -710,7 +778,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZJ-3I"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.527307, 38.315698",
@@ -720,7 +789,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZNMm5"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.522810, 38.321638",
@@ -730,7 +800,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZNYJo"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.530853, 38.320916",
@@ -740,7 +811,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZNJz7"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.526551, 38.330109",
@@ -750,7 +822,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZN6mv"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.787146, 38.455413",
@@ -760,7 +833,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZN2ZU"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.783786, 38.450742",
@@ -770,7 +844,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZN0LI"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.785985, 38.457988",
@@ -780,7 +855,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZNPYS"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.786554, 38.456541",
@@ -790,7 +866,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZNT1t"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.788438, 38.460744",
@@ -800,7 +877,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZREjG"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.047322, 38.855442",
@@ -810,7 +888,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZRUoF"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.049612, 38.856391",
@@ -820,7 +899,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZRRZ1"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.048281, 38.858883",
@@ -830,7 +910,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZR6yU"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.049746, 38.854606",
@@ -840,7 +921,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZRCm2"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.046466, 38.852742",
@@ -850,7 +932,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZROLU"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.043847, 38.837539",
@@ -860,7 +943,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZRDYz"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.048661, 38.856113",
@@ -870,7 +954,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZRXz0"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.082198, 38.825003",
@@ -880,7 +965,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVEMU"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "58.103150, 38.689223",
@@ -890,7 +976,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVMyI"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.879795, 39.536260",
@@ -900,7 +987,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZV4k6"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.880701, 39.535863",
@@ -910,7 +998,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVF96"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.880135, 39.536842",
@@ -920,7 +1009,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVN65"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.882919, 39.543221",
@@ -930,7 +1020,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVR~Y"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.878103, 39.544295",
@@ -940,7 +1031,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZV68j"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.878382, 39.545743",
@@ -950,7 +1042,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVGKf"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.879882, 39.545947",
@@ -960,7 +1053,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVOOu"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.883071, 39.543619",
@@ -970,7 +1064,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZV0mc"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.879273, 39.552425",
@@ -980,7 +1075,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVDje"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.876631, 39.550904",
@@ -990,7 +1086,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZVTZ3"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.887296, 39.529591",
@@ -1000,7 +1097,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZV-OT"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.884260, 39.531237",
@@ -1010,7 +1108,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZZQiq"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.886543, 39.523238",
@@ -1020,7 +1119,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZZ4iS"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.621639, 39.888576",
@@ -1030,7 +1130,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZjJIa"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.628283, 39.897189",
@@ -1040,7 +1141,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZjRZ4"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.626759, 39.894358",
@@ -1050,7 +1152,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZjV~j"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.622415, 39.902063",
@@ -1060,7 +1163,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZj60U"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.621436, 39.902047",
@@ -1070,7 +1174,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZjGZF"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.625342, 39.884967",
@@ -1080,7 +1185,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZjOKZ"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.627077, 39.884708",
@@ -1090,7 +1196,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZjS1K"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.633165, 39.894481",
@@ -1100,7 +1207,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZjL1s"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.459416, 40.571825",
@@ -1110,7 +1218,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZn2l7"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.456674, 40.570221",
@@ -1120,7 +1229,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrAJ1"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.460462, 40.572095",
@@ -1130,7 +1240,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrUje"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.458232, 40.574286",
@@ -1140,7 +1251,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrBmq"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.464017, 40.578023",
@@ -1150,7 +1262,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrVOw"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.765312, 40.917759",
@@ -1160,7 +1273,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrCls"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.765203, 40.924304",
@@ -1170,7 +1284,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrO5i"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.761776, 40.928748",
@@ -1180,7 +1295,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrSIi"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.763582, 40.927953",
@@ -1190,7 +1306,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrWJ4"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.766051, 40.927271",
@@ -1200,7 +1317,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZr84S"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.767781, 40.924621",
@@ -1210,7 +1328,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrDy5"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.768714, 40.925322",
@@ -1220,7 +1339,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrH4p"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.769617, 40.929763",
@@ -1230,7 +1350,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZrL-9"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.775410, 40.889455",
@@ -1240,7 +1361,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZr20J"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.770025, 40.890551",
@@ -1250,7 +1372,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZr-OP"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.777076, 40.893856",
@@ -1260,7 +1383,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvEPi"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.458354, 41.515722",
@@ -1270,7 +1394,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvUNq"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.459304, 41.523661",
@@ -1280,7 +1405,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvY73"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.460756, 41.511101",
@@ -1290,7 +1416,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvBzh"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.461264, 41.513416",
@@ -1300,7 +1427,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvNyi"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.458986, 41.514135",
@@ -1310,7 +1438,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvVyh"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.458868, 41.529373",
@@ -1320,7 +1449,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZv67p"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.457301, 41.526464",
@@ -1330,7 +1460,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvG2h"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.444356, 42.168925",
@@ -1340,7 +1471,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvW~K"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.443752, 42.174053",
@@ -1350,7 +1482,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZv87B"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.414026, 42.534329",
@@ -1360,7 +1493,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZvPlZ"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.318713, 43.111136",
@@ -1370,7 +1504,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZv2-u"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.317169, 43.109302",
@@ -1380,7 +1515,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZv-LD"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "57.318868, 43.113941",
@@ -1390,7 +1526,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzALk"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.764781, 43.266096",
@@ -1400,7 +1537,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzUk~"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.762513, 43.266593",
@@ -1410,7 +1548,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzY2B"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.762604, 43.267570",
@@ -1420,7 +1559,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzB4S"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.647844, 43.377450",
@@ -1430,7 +1570,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzNl3"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.642038, 43.463834",
@@ -1440,7 +1581,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZz65Y"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.641798, 43.465128",
@@ -1450,7 +1592,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzCn3"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.641548, 43.464703",
@@ -1460,7 +1603,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzO0~"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.644182, 43.468332",
@@ -1470,7 +1614,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZz0i2"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.328299, 43.961198",
@@ -1480,7 +1625,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzDY4"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.328437, 44.003111",
@@ -1490,7 +1636,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzHm3"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.330872, 44.009461",
@@ -1500,7 +1647,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzLNm"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.320036, 43.998805",
@@ -1510,7 +1658,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZzTY5"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.329333, 44.016239",
@@ -1520,7 +1669,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZz-IW"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.329382, 44.012698",
@@ -1530,7 +1680,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZz-lA"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.323862, 44.039386",
@@ -1540,7 +1691,8 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ7UOa"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   },
   {
     "coords": "56.325893, 44.026073",
@@ -1550,6 +1702,7 @@
     "links": [
       "https://yandex.ru/maps/-/CHBZ744-"
     ],
-    "kind": "landmark"
+    "kind": "landmark",
+    "points": []
   }
 ]
