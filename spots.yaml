@@ -72,8 +72,8 @@
     - https://yandex.ru/maps/-/CHQ1j8-m
   kind: town
 
-- coords: 57.522181, 38.348997
-  title: Углич. Пристань на набережной
+- coords: 57.498785, 38.349048
+  title: Углич
   id: p8
   img: p8-uglich.jpg
   links:
@@ -81,8 +81,8 @@
     - https://yandex.ru/maps/-/CHQ1j2Jx
   kind: town
 
-- coords: 57.803806, 38.464952
-  title: Мышкин. Пристань с торговыми рядами
+- coords: 57.805652, 38.439681
+  title: Мышкин
   id: p9
   img: p9-myshkin.jpg
   links:
@@ -90,8 +90,8 @@
     - https://yandex.ru/maps/-/CHQ1nB5a
   kind: town
 
-- coords: 58.027660, 38.861298
-  title: Рыбинск. Пристань на набережной
+- coords: 58.055882, 38.750527
+  title: Рыбинск
   id: p10
   img: p10-rybinsk.jpg
   links:
@@ -99,8 +99,8 @@
     - https://yandex.ru/maps/-/CHQ1nN0A
   kind: town
 
-- coords: 57.900207, 39.543502
-  title: Тутаев (Романовская сторона). Смотровая площадка храма и Волги (напротив дома Дмитриева с красивым видом на Казанскую-Преображенскую церковь)
+- coords: 57.868171, 39.601522
+  title: Тутаев (Романовская сторона)
   id: p11
   img: p11-tutayev.jpg
   links:
